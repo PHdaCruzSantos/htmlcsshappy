@@ -9,7 +9,10 @@
     margin-bottom: 60px;
 }
 
-.main-section.-project {
+.main-section.-bgBlue {
     background-color: #056CF2;
+}
+
+.main-section.-bdRed {
     border-bottom: 10px solid #F20505;
 }
