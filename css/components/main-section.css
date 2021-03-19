@@ -1,0 +1,15 @@
+.main-section {
+    background-color: #F20732;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    border-bottom: 10px solid #07038C;
+}
+
+.main-section .main-title {
+    margin-bottom: 60px;
+}
+
+.main-section.-project {
+    background-color: #056CF2;
+    border-bottom: 10px solid #F20505;
+}

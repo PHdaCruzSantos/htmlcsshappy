@@ -1,0 +1,17 @@
+.card-project {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 280px;
+    height: 280px;
+    background-color: #000;
+    box-shadow: 10px 10px 0 #F20732;
+}
+
+.card-project .logo {
+    width: inherit;
+}
+
+.card-project.-blue {
+    box-shadow: 10px 10px 0 #07038C;
+}
