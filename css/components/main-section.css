@@ -24,3 +24,15 @@
 .main-section.-bdBlue {
     border-bottom: 10px solid #056CF2;
 }
+
+.main-section.-bgGray {
+    background-color: #4F4F4F;
+}
+
+.main-section.-bdnone {
+    border-bottom: none;
+}
+
+.main-section.-bdDarkGrey {
+    border-bottom: 10px solid #303030;
+}
