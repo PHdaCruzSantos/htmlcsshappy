@@ -16,15 +16,15 @@
     background-color: #fff;
     box-shadow: 5px 5px 0 #F20732;
     color: #F20732;
+    cursor: pointer;
 }
 
 .main-button.-full {
     width: 100%;
-    transition: none;
 }
 
 .main-button.-full:hover {
-    transform: none;
+    transform: scale(1.01);
     background-color: #fff;
     box-shadow: 5px 5px 0 #F20732;
     color: #F20732;
