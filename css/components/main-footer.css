@@ -1,0 +1,18 @@
+.main-footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 28px;
+    padding-bottom: 28px;
+    background-color: #303030;
+}
+
+.main-footer .action {
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.main-footer .iconsvg {
+    width: 45px;
+    height: 45px;
+}
